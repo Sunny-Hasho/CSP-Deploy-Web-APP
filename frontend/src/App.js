@@ -5,7 +5,7 @@ function App() {
   const [forecasts, setForecasts] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:5113/weatherforecast')
+    fetch('https://csp-backend-c7agaxgwb5csghfv.eastasia-01.azurewebsites.net/weatherforecast')
       .then(response => response.json())
       .then(data => setForecasts(data))
       .catch(error => console.error('Error fetching data:', error));
