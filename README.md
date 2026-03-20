@@ -16,7 +16,7 @@ This project demonstrates how to deploy a full-stack application (React frontend
 
 ## 🌐 Live Demonstration
 
-- **Frontend App**: [Azure Static Web App Link] (Insert your URL here)
+- **Frontend App**: [https://green-ocean-0c4707700.1.azurestaticapps.net/](https://green-ocean-0c4707700.1.azurestaticapps.net/)
 - **Backend API**: [https://csp-backend-c7agaxgwb5csghfv.eastasia-01.azurewebsites.net/weatherforecast](https://csp-backend-c7agaxgwb5csghfv.eastasia-01.azurewebsites.net/weatherforecast)
 
 ## 📂 Project Structure
